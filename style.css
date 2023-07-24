@@ -1,0 +1,30 @@
+header {
+  height: 10%;
+  background-color: blue;
+}
+h1 {
+  color: white;
+}
+footer {
+  height: 13%;
+  background: black;
+}
+a {
+  color: red;
+}
+
+h2 {
+  color: red;
+
+  text-shadow: 2px 2px;
+}
+p {
+  color: yellow;
+}
+.mypahragrf {
+  color: orange;
+}
+.Avikipedi {
+  text-decoration: none;
+  color: green;
+}
